@@ -114,6 +114,27 @@
               </tbody>
             </table>
           </div>
+          <div class="col-md-12">
+            <div class="title">
+              <h2>Shipping Information</h2>
+            </div>
+            <table class="cart-table">
+              <tbody>
+                <tr>
+                  <th>주소</th>
+                  <td>선택선택</td>
+                </tr>
+                <tr>
+                  <th>Phone</th>
+                  <td>010-1234-1234</td>
+                </tr>
+                <tr>
+                  <th>E-mail</th>
+                  <td>g1@gmail.com</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
       <div class="section">
