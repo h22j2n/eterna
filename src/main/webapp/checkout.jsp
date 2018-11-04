@@ -122,7 +122,8 @@
               <tbody>
                 <tr>
                   <th>주소</th>
-                  <td>선택선택</td>
+                  <td>
+                  <div><input type="radio" value="현재주소" name="address"> 현재주소 </div></td>
                 </tr>
                 <tr>
                   <th>Phone</th>
